@@ -1,5 +1,6 @@
-# Tibia Ignore List
+# Tibia NPC Ignore List
 This list ("NPCs.txt") can be used to ignore all NPCs in the game.
+
 It currently includes all 1149 NPCs (2024-04-19).
 
 ## How to ignore the NPCs
